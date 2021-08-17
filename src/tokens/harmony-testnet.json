@@ -9,6 +9,22 @@
   },
   {
     "chainId": 1666700000,
+    "address": "0xc4860463C59D59a9aFAc9fdE35dff9Da363e8425",
+    "symbol": "BUSD",
+    "name": "Binance USD from ETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x6D307636323688Cc3Fe618CcbA695eFC7a94f813",
+    "symbol": "bscBUSD",
+    "name": "Binance USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666700000,
     "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
     "symbol": "1BUSD",
     "name": "OneBUSD",
