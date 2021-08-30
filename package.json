@@ -1,6 +1,6 @@
 {
-  "name": "@kangfinance/default-token-list",
-  "version": "0.0.1",
+  "name": "@kangafinance/default-token-list",
+  "version": "0.0.6",
   "description": "◦ The Kanga Finance default token list",
   "main": "build/kanga-default.tokenlist.json",
   "scripts": {
@@ -21,7 +21,7 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "Kanga Finance",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/KangaFinance/kanga-default-token-list/issues"
