@@ -1,43 +1,11 @@
 [
   {
     "chainId": 1666700000,
-    "address": "0x7466d7d0C21Fa05F32F5a0Fa27e12bdC06348Ce2",
-    "symbol": "WONE",
-    "name": "Wrapped ONE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
-  },
-  {
-    "chainId": 1666700000,
-    "address": "0xc4860463C59D59a9aFAc9fdE35dff9Da363e8425",
-    "symbol": "BUSD",
-    "name": "Binance USD from ETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
-  },
-  {
-    "chainId": 1666700000,
-    "address": "0x6D307636323688Cc3Fe618CcbA695eFC7a94f813",
-    "symbol": "bscBUSD",
-    "name": "Binance USD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
-  },
-  {
-    "chainId": 1666700000,
     "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
     "symbol": "1BUSD",
     "name": "OneBUSD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
-  },
-  {
-    "chainId": 1666700000,
-    "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
   },
   {
     "chainId": 1666700000,
@@ -54,5 +22,45 @@
     "name": "OneChainlink",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x6D307636323688Cc3Fe618CcbA695eFC7a94f813",
+    "symbol": "bscBUSD",
+    "name": "Binance USD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0xc4860463C59D59a9aFAc9fdE35dff9Da363e8425",
+    "symbol": "BUSD",
+    "name": "Binance USD from ETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+		"chainId": 1666700000,
+		"address": "0xfC780aA287eddb7456A97cB18E7FD0d1a8d900ae",
+		"symbol": "KANGA",
+		"name": "Kanga Token",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/kanga.jpg"
+	},
+  {
+    "chainId": 1666700000,
+    "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x7466d7d0C21Fa05F32F5a0Fa27e12bdC06348Ce2",
+    "symbol": "WONE",
+    "name": "Wrapped ONE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
   }
 ]

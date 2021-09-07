@@ -19,7 +19,7 @@ const fuji = require("./tokens/fuji.json");
 const heco = require("./tokens/heco.json");
 const hecoTestnet = require("./tokens/heco-testnet.json");
 
-const harmony = require("./tokens/harmony-mainnet.json");
+const harmony = require("./tokens/harmony.json");
 const harmonyTestnet = require("./tokens/harmony-testnet.json");
 
 const okex = require("./tokens/okex.json");

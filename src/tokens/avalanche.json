@@ -1241,6 +1241,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xfC780aA287eddb7456A97cB18E7FD0d1a8d900ae",
+    "decimals": 18,
+    "name": "Kanga Token",
+    "symbol": "KANGA",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xfC780aA287eddb7456A97cB18E7FD0d1a8d900ae/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x1D81360dADf2E1756FaeAe46072dD12997170F46",
     "decimals": 18,
     "name": "KardiaChain Token",
