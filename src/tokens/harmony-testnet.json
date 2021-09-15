@@ -5,7 +5,7 @@
     "symbol": "1ETH",
     "name": "OneETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/eth.jpg"
   },
   {
     "chainId": 1666700000,
@@ -13,7 +13,7 @@
     "symbol": "1LINK",
     "name": "OneChainlink",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/link.jpg"
   },
   {
     "chainId": 1666700000,
@@ -21,7 +21,7 @@
     "symbol": "bscBUSD",
     "name": "Binance USD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/busd.jpg"
   },
   {
     "chainId": 1666700000,
@@ -29,7 +29,7 @@
     "symbol": "BUSD",
     "name": "Binance USD from ETH",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/busd.jpg"
   },
   {
 		"chainId": 1666700000,
@@ -45,7 +45,7 @@
     "symbol": "WBTC",
     "name": "Wrapped BTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/btc.jpg"
   },
   {
     "chainId": 1666700000,
@@ -53,7 +53,7 @@
     "symbol": "WONE",
     "name": "Wrapped ONE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/one.jpg"
   },
   {
     "chainId": 1666700000,
@@ -61,7 +61,7 @@
     "symbol": "DAI",
     "name": "Test DAI",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/dai.jpg"
   },
   {
     "chainId": 1666700000,
@@ -69,7 +69,7 @@
     "symbol": "USDC",
     "name": "Test USD Coin",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/usdc.jpg"
   },
   {
     "chainId": 1666700000,
@@ -77,6 +77,6 @@
     "symbol": "USDT",
     "name": "Test Tether",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/usdt.jpg"
   }
 ]
