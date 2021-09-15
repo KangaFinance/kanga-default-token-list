@@ -1,14 +1,6 @@
 [
   {
     "chainId": 1666700000,
-    "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
-    "symbol": "1BUSD",
-    "name": "OneBUSD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
-  },
-  {
-    "chainId": 1666700000,
     "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
     "symbol": "1ETH",
     "name": "OneETH",
@@ -41,7 +33,7 @@
   },
   {
 		"chainId": 1666700000,
-		"address": "0xfC780aA287eddb7456A97cB18E7FD0d1a8d900ae",
+		"address": "0xFCDa6fFD5edA57f8BF01367251f031C404df75d8",
 		"symbol": "KANGA",
 		"name": "Kanga Token",
 		"decimals": 18,
@@ -62,5 +54,29 @@
     "name": "Wrapped ONE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0xa6610F1ba3523352d5Da5FB2e25c0D8859da4007",
+    "symbol": "DAI",
+    "name": "Test DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/dai-multi-collateral-mcd.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x2E89d104f10e1D480D47e924f3F43672C09D12a2",
+    "symbol": "USDC",
+    "name": "Test USD Coin",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x922337914E641E830cE174f52288bD7660ef83C6",
+    "symbol": "USDT",
+    "name": "Test Tether",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   }
 ]
