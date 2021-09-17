@@ -1,5 +1,13 @@
 [
   {
+		"chainId": 1666700000,
+		"address": "0x64Ef9cfa99b26d8ed7150ddf0b9c38e28Cb1172f",
+		"symbol": "KANGA",
+		"name": "Kanga Token",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/kanga.jpg"
+	},
+  {
     "chainId": 1666700000,
     "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
     "symbol": "1ETH",
@@ -31,14 +39,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/busd.jpg"
   },
-  {
-		"chainId": 1666700000,
-		"address": "0x365CEd76FAf1469f1cA4430D6584a8729001721b",
-		"symbol": "KANGA",
-		"name": "Kanga Token",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/kanga.jpg"
-	},
   {
     "chainId": 1666700000,
     "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
