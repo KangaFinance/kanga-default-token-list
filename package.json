@@ -1,6 +1,6 @@
 {
   "name": "@kangafinance/default-token-list",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "◦ The Kanga Finance default token list",
   "main": "build/kanga-default.tokenlist.json",
   "scripts": {
