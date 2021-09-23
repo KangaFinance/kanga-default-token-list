@@ -9,7 +9,15 @@
 	},
   {
     "chainId": 1666700000,
-    "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
+    "address": "0x16c640660d25Ce3cEE50075995567dB74e380F96",
+    "symbol": "WONE",
+    "name": "WONE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/one.jpg"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0xbbd8d7b71170916a033E4d07F2A8932f5F3aa510",
     "symbol": "1ETH",
     "name": "OneETH",
     "decimals": 18,
@@ -17,66 +25,50 @@
   },
   {
     "chainId": 1666700000,
-    "address": "0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88",
-    "symbol": "1LINK",
-    "name": "OneChainlink",
+    "address": "0x55Ac2c51252FEC72a04a575ace2b88D00d13Ab68",
+    "symbol": "1WBTC",
+    "name": "1WBTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/link.jpg"
-  },
-  {
-    "chainId": 1666700000,
-    "address": "0x6D307636323688Cc3Fe618CcbA695eFC7a94f813",
-    "symbol": "bscBUSD",
-    "name": "Binance USD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/busd.jpg"
-  },
-  {
-    "chainId": 1666700000,
-    "address": "0xc4860463C59D59a9aFAc9fdE35dff9Da363e8425",
-    "symbol": "BUSD",
-    "name": "Binance USD from ETH",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/busd.jpg"
-  },
-  {
-    "chainId": 1666700000,
-    "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
-    "symbol": "WBTC",
-    "name": "Wrapped BTC",
-    "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/btc.jpg"
   },
   {
     "chainId": 1666700000,
-    "address": "0x7466d7d0C21Fa05F32F5a0Fa27e12bdC06348Ce2",
-    "symbol": "WONE",
-    "name": "Wrapped ONE",
+    "address": "0x8800a37FbEd8953A642c4B8186bC5780Cd253FEE",
+    "symbol": "1USDT",
+    "name": "1USDT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/one.jpg"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/usdt.jpg"
   },
   {
     "chainId": 1666700000,
-    "address": "0xa6610F1ba3523352d5Da5FB2e25c0D8859da4007",
-    "symbol": "DAI",
-    "name": "Test DAI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/dai.jpg"
-  },
-  {
-    "chainId": 1666700000,
-    "address": "0x2E89d104f10e1D480D47e924f3F43672C09D12a2",
-    "symbol": "USDC",
-    "name": "Test USD Coin",
+    "address": "0xC285b03fFdB3fb5C77e3BDD0A2206A69A3691f0E",
+    "symbol": "1USDC",
+    "name": "1USDC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/usdc.jpg"
   },
   {
     "chainId": 1666700000,
-    "address": "0x922337914E641E830cE174f52288bD7660ef83C6",
-    "symbol": "USDT",
-    "name": "Test Tether",
+    "address": "0xB1Ce20837c7D9604046b18914Ac90dda3fF69d0e",
+    "symbol": "BUSD",
+    "name": "BUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/usdt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/busd.jpg"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x260af0515ee751Be4E3eC2F530E06c6B164D8864",
+    "symbol": "bscBUSD",
+    "name": "bscBUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/bscbusd.jpg"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x4d6260b2B337aAf34785db207226C65DAdC34D86",
+    "symbol": "UST",
+    "name": "UST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kangafinance/icons/master/token/ust.jpg"
   }
 ]
